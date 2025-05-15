@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.selected {
+    background-color: #3cc453;
+    color: white;
+  }
